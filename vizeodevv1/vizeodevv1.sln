@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vizeodevv1", "vizeodevv1\vizeodevv1.csproj", "{C70C07BE-56D2-4E1B-B7B0-A24610F0A49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C70C07BE-56D2-4E1B-B7B0-A24610F0A49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C70C07BE-56D2-4E1B-B7B0-A24610F0A49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C70C07BE-56D2-4E1B-B7B0-A24610F0A49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C70C07BE-56D2-4E1B-B7B0-A24610F0A49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C876C1AE-4F6D-4845-991F-65AACAE2C3C1}
+	EndGlobalSection
+EndGlobal
